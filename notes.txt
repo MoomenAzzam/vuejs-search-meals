@@ -1,0 +1,16 @@
+These are my notes I wrote to remember new information or to recall old information that I had forgotten 
+
+"dev": "vite --port=3000", 
+this in packeg.json to change port number in local server
+
+to make scalber structure in vuex you shoud make as you see but don't forget (exports)
+
+you can install (tailwend forms) to add styles for forms 
+
+
+how you do define props and ues it in composition api
+
+
+watch methods i was used it first time and i know what it is activity now 
+
+change  event listener  

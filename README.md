@@ -1,4 +1,4 @@
-![details ingredinets](https://github.com/MoomenAzzam/vuejs-search-meals/assets/82784364/e3097b58-646e-4547-a541-fbb6b8e32fd3)# Vue 3 + Vite
+# Vue 3 + Vite
 
 ##This web application contains a set of meals and the ease of searching for them in several ways
 

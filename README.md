@@ -1,10 +1,10 @@
 # Vue 3 + Vite
 
-##This web application contains a set of meals and the ease of searching for them in several ways
+## This web application contains a set of meals and the ease of searching for them in several ways
 
 ## I used in this vue app (vue3 , vuex , vite , public API ,tailwend CSS)
 
-###This application uses a general api to obtain meals and then display them and the ability to search for them in various forms, either by the first letter of the name of the meal or by using any word in it or by ingredients. This application enables you to open a video of how the meal works on YouTube or open The source for the recipe is on the site that shared it
+### This application uses a general api to obtain meals and then display them and the ability to search for them in various forms, either by the first letter of the name of the meal or by using any word in it or by ingredients. This application enables you to open a video of how the meal works on YouTube or open The source for the recipe is on the site that shared it
 
 ![Home Page](https://github.com/MoomenAzzam/vuejs-search-meals/assets/82784364/526be122-6ed8-49b7-86bb-23e97da88ef5)
 
